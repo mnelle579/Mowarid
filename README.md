@@ -1,6 +1,6 @@
 <div>
 
-<p> > 🌟 Mowarid </p>
+<p> > 🌟 **Mowarid** </p>
 
  Une plateforme B2B qui a été conçue pour répondre aux besoins spécifiques des usines et des PME en matière de gestion de commandes. Elle repose sur un système multi-vendeurs, permettant à chaque fournisseur de créer et gérer son propre catalogue, tout en offrant à leurs clients professionnels un espace dédié pour consulter les articles et passer leurs commandes en toute autonomie.
 
@@ -59,7 +59,7 @@ la plateforme repose sur :
 
 ---
 
-# 📩 Contact & Partenariats
+📩 Contact & Partenariats
 
 Vous souhaitez déployer Mowarid pour votre réseau de distribution ou tester la plateforme ?
 
